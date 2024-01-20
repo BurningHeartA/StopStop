@@ -1,0 +1,4 @@
+C:\Users\leogr\Desktop\Обучение\2 курс\Компьютерный практикум\Labs\4\Lab 4 - Calculator\x64\Debug\Lab 4 - Calculator.vcxproj.AssemblyReference.cache
+C:\Users\leogr\Desktop\Обучение\2 курс\Компьютерный практикум\Labs\4\Lab 4 - Calculator\x64\Debug\Lab4Calculator.MainWindow.resources
+C:\Users\leogr\Desktop\Обучение\2 курс\Компьютерный практикум\Labs\4\Lab 4 - Calculator\x64\Debug\Lab 4 - Calculator.vcxproj.GenerateResource.cache
+C:\Users\leogr\Desktop\Обучение\2 курс\Компьютерный практикум\Labs\4\Lab 4 - Calculator\x64\Debug\Lab 4 - Calculator.exe
