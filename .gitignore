@@ -1,3 +1,8 @@
 .idea
 cmake-build-debug
+<<<<<<< HEAD
 *.exe
+*.exe*
+=======
+
+>>>>>>> main
